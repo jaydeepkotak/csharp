@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace consoleapp
 {
-    internal class Program
+    internal class helloworld
     {
-        static void Main(string[] args)
+        public void hello()
         {
-            helloworld h = new helloworld();
-            h.hello();
+            Console.WriteLine("hello jaydeep");
         }
     }
 }
