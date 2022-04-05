@@ -11,7 +11,9 @@ namespace consoleapp
         static void Main(string[] args)
         {
             helloworld h = new helloworld();
+            variable v = new variable();
             h.hello();
+            v.variableConcept();
         }
     }
 }
