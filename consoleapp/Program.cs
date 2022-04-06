@@ -21,6 +21,8 @@ namespace consoleapp
             working_with_number n = new working_with_number();
             n.numbers();*/
 
+            Mathematical m = new Mathematical();
+            m.mathematicalOpration();
 
 
 
