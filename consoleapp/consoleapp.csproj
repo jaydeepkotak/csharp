@@ -44,10 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="helloworld.cs" />
+    <Compile Include="Mathematical.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stringoperation.cs" />
     <Compile Include="variable.cs" />
+    <Compile Include="working_with_number.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
